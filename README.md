@@ -41,6 +41,9 @@ _User-Friendly Interface:_ Our intuitive platform ensures seamless navigation an
 
 _Research and Learning Resources:_ Dive into our comprehensive FAQ documentation to learn more about various indicators, factors, and strategies. It serves as a valuable resource for new investors to expand their knowledge.
 
+Author:
+Takudzwa Choto
+
 
 
 
