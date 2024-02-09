@@ -1,5 +1,5 @@
 <h1 align="center">Backtesing Logs</h1>
-<h5 align="center">"Stock markert Prediction with deep learning and blockchain"</h5>
+<h5 align="center">"Stock markert Prediction based on deep learning and blockchain"</h5>
 
 <hr>
 
