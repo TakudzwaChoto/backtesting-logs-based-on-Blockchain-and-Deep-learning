@@ -1,5 +1,5 @@
-<h1 align="center">Predictbay</h1>
-<h5 align="center">"Master the Art of Stock Forecasting: Harness the Power of Machine Learning"</h5>
+<h1 align="center">Backtesing Logs</h1>
+<h5 align="center">"Stock markert Prediction with deep learning and blockchain"</h5>
 
 <hr>
 
@@ -25,7 +25,7 @@ The bi-directional LSTM model is implemented using the Keras library.The Data_fe
 
 <hr>
 
-# Predictbay Features
+# Backtesting Logs Features
 
 _Precise Predictions:_ Leverage the power of artificial intelligence to make data-backed investment decisions confidently.
 
@@ -41,14 +41,7 @@ _User-Friendly Interface:_ Our intuitive platform ensures seamless navigation an
 
 _Research and Learning Resources:_ Dive into our comprehensive FAQ documentation to learn more about various indicators, factors, and strategies. It serves as a valuable resource for new investors to expand their knowledge.
 
-## Website Preview
 
-<img src="Predictbay_Template/img1.png">
-<!-- <img src="Predictbay_Template/img2.png">
-<img src="Predictbay_Template/img3.png">
-<img src="Predictbay_Template/img4.png">
-<img src="Predictbay_Template/img5.png">
-<img src="Predictbay_Template/img6.png"> -->
 
 
 
