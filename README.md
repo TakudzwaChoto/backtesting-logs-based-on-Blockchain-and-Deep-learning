@@ -3,19 +3,18 @@
 https://cdni.iconscout.com/illustration/premium/thumb/man-trading-stocks-7113747-5783456.png?f=webp
 <hr>
 
-<img align="right" height="300px" src="!(https://github.com/TakudzwaChoto/Enhancement-of-backtesting-logs-based-on-Blockchain-and-Deep-learning/assets/56199912/0bfb143d-fd12-4582-9038-528cb92fc582)
-">
 
 # Project Overview
 
-The project aims to provide stock price predictions for a given ticker symbol using historical stock data. The web application allows users to input a ticker symbol, and it retrieves the corresponding stock data using the Yahoo Finance API. The application then utilizes two models to predict future stock prices: a traditional machine learning model and a bi-directional LSTM model. The predicted prices are displayed on a web page along with historical price charts and other stock information.
-
+The project aims to provide stock price predictions for a given ticker symbol using historical stock data. The web application allows users to input a ticker symbol, and it retrieves the corresponding stock data using the Yahoo Finance API. The application then utilizes two models to predict future stock prices: a traditional machine learning model and a bi-directional LSTM model. The predicted prices are displayed on a web page along with historical price charts and other 
+stock information.
+                                                                                                                                                             
+                                                                                                                                                             
 # Web Application
 
 The Flask web application provides a user interface for interacting with the stock prediction models. It uses HTML templates to render the web pages and accepts user inputs for the ticker symbol. It retrieves stock data using the Yahoo Finance API and displays the historical price chart, including moving averages. It also displays the predicted prices from both models, along with other stock information such as the today's high, close, and open values. The application provides additional pages for FAQs, contact information, about section, user registration, and news. It also includes a global chat feature and a login page. Overall, the project combines traditional machine learning techniques with deep learning (LSTM) to predict stock prices. The Flask web application serves as a user-friendly interface to interact with the models and view the predictions, historical data, and other stock-related information.
 
-<img align="left" height="290px" src="https://github.com/TakudzwaChoto/Enhancement-of-backtesting-logs-based-on-Blockchain-and-Deep-learning/assets/56199912/482a2d07-cac3-4672-b78d-b62d55d6780a
-">
+
 
 # Machine Learning Model
 
@@ -47,7 +46,7 @@ Author:
 Takudzwa Choto
 
 
-
+                                                                                                                 contact me at :ctakudzwa95@gmail.com
 
 
 
